@@ -18,6 +18,6 @@ this is a Python-based drawing tool i built on jupyter notebook that lets users 
 
 
 
-![alt text](image-1.png)
+!images/image-1.png
 ![alt text](image-2.png)
 ![alt text](image-3.png)
