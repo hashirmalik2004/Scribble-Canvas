@@ -20,14 +20,14 @@ this is a Python-based drawing tool i built on jupyter notebook that lets users 
 1. Drawing Interface (Canvas)
    This is the main interactive canvas where users can draw using the mouse
    
-   ![alt text](images/image-1.png)
+   ![Drawing Canvas Interface](images/image-1.png)
    
 2. Tracked Coordinates
    Shows the recorded x and y coordinates
    
-   ![alt text](images/image-2.png)
+   ![Coordinate Output Table](images/image-2.png)
    
 3. Visualization Output  
    A matplotlib plot highlighting the path, min/max y-coordinates, and the average point
    
-   ![alt text](images/image-3.png)
+   ![Matplotlib Plot](images/image-3.png)
